@@ -1,9 +1,3 @@
-qubitcoin, minage - stock
+minage8 - affinity for 2 physical cores per gpu
 
-qminer - stats, affinity, sha code
-
-minage2 - stats, affinity 1 core per gpu, sha code removed
-
-minage5 - stats, affinity for 2 physical cores per gpu, sha code removed
-
-qminer5 - stats, affinity for 2 physical cores per gpu, need sha
+qminer9 - affinity for 2 physical cores per gpu
