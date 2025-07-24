@@ -4,4 +4,6 @@ minage9 - affinity for 2 physical cores per gpu
 
 minage10 - manual t, no affinity
 
+minage22 - t 2, affinity for 2 physical cores per gpu
+
 minage23 - t 2, affinity for 3 physical cores per gpu
