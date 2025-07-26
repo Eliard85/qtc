@@ -1,6 +1,6 @@
-minage8 - affinity for 1 physical cores per gpu
+minage8 - t 1, affinity for 1 physical cores per gpu
 
-minage9 - affinity for 2 physical cores per gpu
+minage9 - t1, affinity for 2 physical cores per gpu
 
 minage10 - manual t, no affinity
 
