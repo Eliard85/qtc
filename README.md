@@ -1,4 +1,4 @@
-minage8 - t 1, affinity for 1 physical cores per gpu
+minage81 - t 1, affinity for 1 physical cores per gpu, glibc2.39 update
 
 minage9 - t 1, affinity for 2 physical cores per gpu
 
