@@ -1,11 +1,11 @@
-minage81 - t 1, affinity for 1 physical cores per gpu, glibc2.39 update
+qtc - указать количество потоков -t на gpu, встроенный affinity отключен
 
-minage9 - t 1, affinity for 2 physical cores per gpu
+minage81 - t 1, affinity поток на gpu, glibc2.39
 
-minage10 - manual -t, no affinity
+minage9 - t 1, affinity 2 потока на gpu
 
-minage221 - t 2, affinity for 2 physical cores per gpu, glibc2.39 update
+minage221 - t 2, affinity 2 потока на gpu, glibc2.39
 
-minage231 - t 2, affinity for 3 physical cores per gpu, glibc2.39 update
+minage231 - t 2, affinity 3 потока на gpu, glibc2.39
 
-test - FS for gpu0, need set -t for test
+test - полетник для теста gpu0, указать -t
