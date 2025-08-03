@@ -1,4 +1,4 @@
-qtc - указать количество потоков -t на gpu, встроенный affinity отключен
+qtc - указать количество потоков -t на gpu, встроенный affinity отключен, glibc2.39
 
 minage81 - t 1, affinity поток на gpu, glibc2.39
 
